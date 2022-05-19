@@ -1,0 +1,26 @@
+[03-Jun-2021 19:48:35 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rickurbi_skyview.cotizaciones' doesn't exist in /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php:12
+Stack trace:
+#0 /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php(12): PDOStatement->execute()
+#1 /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/controllerCotizaciones.php(37): CotizacionesModel::mdlAgregarCotizacion(Array)
+#2 /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/agregarCotizacion.php(11): CotizacionesController->ctrAgregarCotizacion(Array)
+#3 {main}
+  thrown in /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php on line 12
+[03-Jun-2021 19:48:56 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rickurbi_skyview.cotizaciones' doesn't exist in /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php:12
+Stack trace:
+#0 /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php(12): PDOStatement->execute()
+#1 /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/controllerCotizaciones.php(37): CotizacionesModel::mdlAgregarCotizacion(Array)
+#2 /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/agregarCotizacion.php(11): CotizacionesController->ctrAgregarCotizacion(Array)
+#3 {main}
+  thrown in /home/rickurbi/skyviewfenster.com.mx/cotizador/models/modelCotizaciones.php on line 12
+[15-Jul-2021 19:35:41 America/New_York] PHP Warning:  require(./models/modelCotizaciones.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 3
+[15-Jul-2021 19:35:41 America/New_York] PHP Fatal error:  require(): Failed opening required './models/modelCotizaciones.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 3
+[02-Aug-2021 20:59:03 America/New_York] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 20:59:03 America/New_York] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:01:30 America/New_York] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:01:30 America/New_York] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:02:03 America/New_York] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:02:03 America/New_York] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:03:18 America/New_York] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:03:18 America/New_York] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:10:09 America/New_York] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2
+[02-Aug-2021 21:10:09 America/New_York] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rickurbi/skyviewfenster.com.mx/cotizador/controllers/solicitarEnvioDeCorreo.php on line 2

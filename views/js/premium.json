@@ -1,0 +1,1147 @@
+{
+  "nombre": "Premium",
+  "img": "./img/PremiumAbatible.png",
+  "ceja": [
+    {
+      "nombre": "Sin ceja",
+      "img": "./img/sinCeja.png "
+    },
+    {
+      "nombre": "Ceja",
+      "img": "./img/ceja.png"
+    },
+    {
+      "nombre": "Ceja enfrente",
+      "img": "./img/ceja_frente.png"
+    }
+  ],
+  "tipoVidrio": [
+    {
+      "nombre": "Vidrio Doble",
+      "img": "./img/vidrio_dob.png",
+      "tipos": [
+        {
+          "nombre": "Claro",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Low-E",
+          "img": "./img/vidrio_dob_lowe.png"
+        },
+        {
+          "nombre": "Claro / Baño Tapis ",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Claro / Baño Ultra Fino",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Low-E / Baño Tapis",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Low-E / Baño Ultra Fino ",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Templado Claro ",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Templado Low-E ",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol",
+          "img": "./img/vidrio_dob_lowe.png"
+        },
+        {
+          "nombre": "Low-E / ReflecteSol",
+          "img": "./img/vidrio_dob_lowe.png"
+        },
+        {
+          "nombre": "FiltraSol / Claro",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Tapis",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Ultra Fino",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "ReflecteSol / Baño UF",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Templado Claro / Baño ",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Templado Low-E / Baño",
+          "img": "./img/vidrio_dob.png"
+        },
+        {
+          "nombre": "Templado Low-E / Filtra Sol",
+          "img": "./img/vidrio_dob.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Vidrio Doble con Marginal",
+      "img": "./img/vidrio_dob_marginal.png",
+      "tipos": [
+        {
+          "nombre": "Claro con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "Low-E con Marginal",
+          "img": "./img/vidrio_dob_lowe_marginal.png"
+        },
+        {
+          "nombre": "Claro / Baño Tapis con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "Claro / Baño Ultra Fino con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "Low-E / Baño Tapis con Marginal",
+          "img": "./img/vidrio_dob_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / Baño Ultra Fino con Marginal",
+          "img": "./img/vidrio_dob_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol con Marginal",
+          "img": "./img/vidrio_dob_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / ReflecteSol con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "FiltraSol / Claro con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Tapis con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Ultra Fino  con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / Baño UF con Marginal",
+          "img": "./img/vidrio_dob_marginal.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Vidrio Doble con Cuadricula",
+      "img": "./img/vidrio_dob_marginal.png",
+      "tipos": [
+        {
+          "nombre": "Claro con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E con Cuadricula",
+          "img": "./img/vidrio_dob_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Claro / Baño Tapis con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "Claro / Baño Ultra Fino con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / Baño Tapis con Cuadricula",
+          "img": "./img/vidrio_dob_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / Baño Ultra Fino con Cuadricula",
+          "img": "./img/vidrio_dob_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol con Cuadricula",
+          "img": "./img/vidrio_dob_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / ReflecteSol con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "FiltraSol / Claro con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Tapis con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "FiltraSol / Baño Ultra Fino  con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / Baño UF con Cuadricula",
+          "img": "./img/vidrio_dob_cuadricula.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Vidrio Triple ",
+      "img": "./img/vidrio_tri.png",
+      "tipos": [
+        {
+          "nombre": "Low-E / Claro / Baño Tapis",
+          "img": "./img/vidrio_tri_bano_lowe.png"
+        },
+        {
+          "nombre": "Low-E / Claro / Baño Ultra Fino",
+          "img": "./img/vidrio_tri_bano_lowe.png"
+        },
+        {
+          "nombre": "Low-E",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / Claro / FiltraSol",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Claro",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / FiltraSol",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Tapis ",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Ultra Fino ",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "Low-E / Low-E / Claro",
+          "img": "./img/vidrio_tri_lowe.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Claro",
+          "img": "./img/vidrio_tri.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol / Claro",
+          "img": "./img/vidrio_tri.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / FiltraSol",
+          "img": "./img/vidrio_tri.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Baño UF",
+          "img": "./img/vidrio_tri.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Vidrio Triple con Marginal",
+      "img": "./img/vidrio_tri_marginal.png",
+      "tipos": [
+        {
+          "nombre": "Low-E / Claro / Baño Tapis con Marginal",
+          "img": "./img/vidrio_tri_bano_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / Claro / Baño Ultra Fino con Marginal",
+          "img": "./img/vidrio_tri_bano_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E con Marginal",
+          "img": "./img/vidrio_tri_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / Claro / FiltraSol con Marginal",
+          "img": "./img/vidrio_tri_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Claro con Marginal",
+          "img": "./img/vidrio_tri_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / FiltraSol con Marginal",
+          "img": "./img/vidrio_tri_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Tapis con Marginal",
+          "img": "./img/vidrio_tri_bano_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Ultra Fino con Marginal",
+          "img": "./img/vidrio_tri_bano_lowe_marginal.png"
+        },
+        {
+          "nombre": "Low-E / Low-E / Claro con Marginal",
+          "img": "./img/vidrio_tri_lowe_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Claro con Marginal",
+          "img": "./img/vidrio_tri_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol / Claro con Marginal",
+          "img": "./img/vidrio_tri_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / FiltraSol con Marginal",
+          "img": "./img/vidrio_tri_marginal.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Baño UF con Marginal",
+          "img": "./img/vidrio_tri_marginal.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Vidrio Triple con Cuadricula",
+      "img": "./img/vidrio_tri_cuadricula.png",
+      "tipos": [
+        {
+          "nombre": "Low-E / Claro / Baño Tapis con Cuadricula",
+          "img": "./img/vidrio_tri_bano_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / Claro / Baño Ultra Fino con Cuadricula",
+          "img": "./img/vidrio_tri_bano_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E con Cuadricula",
+          "img": "./img/vidrio_tri_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / Claro / FiltraSol con Cuadricula",
+          "img": "./img/vidrio_tri_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Claro con Cuadricula",
+          "img": "./img/vidrio_tri_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / FiltraSol con Cuadricula",
+          "img": "./img/vidrio_tri_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Tapis con Cuadricula",
+          "img": "./img/vidrio_tri_bano_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / FiltraSol / Baño Ultra Fino con Cuadricula",
+          "img": "./img/vidrio_tri_bano_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "Low-E / Low-E / ClaCuadricula",
+          "img": "./img/vidrio_tri_lowe_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Claro con Cuadricula",
+          "img": "./img/vidrio_tri_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / FiltraSol / Claro con Cuadricula",
+          "img": "./img/vidrio_tri_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / FiltraSol con Cuadricula",
+          "img": "./img/vidrio_tri_cuadricula.png"
+        },
+        {
+          "nombre": "ReflecteSol / Claro / Baño UF con Cuadricula",
+          "img": "./img/vidrio_tri_cuadricula.png"
+        }
+      ]
+    }
+  ],
+  "tipo": [
+    {
+      "nombre": "Fijo",
+      "img": "./img/Fijo.png",
+      "subtipo": [
+        {
+          "nombre": "Abatible Fijo",
+          "img": "./img/AbatibleFijo.png",
+          "formula": "(An + Al) * PV",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "72",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "11.5",
+              "alto": "17.5"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible Fijo"]
+          }
+        },
+        {
+          "nombre": "Abatibles Fijos Apilados",
+          "img": "./img/AbatibleFijosApilados.png",
+          "formula": "((An + (Al / 2)) * PV) * 2 + calcularTMullion(An)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "72",
+              "alto": "108"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "11.5",
+              "alto": "23"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible Fijo"]
+          }
+        },
+        {
+          "nombre": "Doble Abatible Fijo",
+          "img": "./img/DobleAbatibleFijo.png",
+          "formula": "(((An / 2) + Al) * PV) * 2 + calcularTMullion(Al)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "23.5",
+              "alto": "11.5"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible Fijo"]
+          }
+        },
+        {
+          "nombre": "Fija O-O-O",
+          "img": "./img/FijaO-O-O.png",
+          "formula": "((An + (Al / 3)) * PV) * 3 + calcularTMullion(An * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "72",
+              "alto": "108"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "11.5",
+              "alto": "36"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible Fijo"]
+          }
+        },
+        {
+          "nombre": "Fijo O-O-O",
+          "img": "./img/FijoO-O-O.png",
+          "formula": "(((An / 3) + Al) * PV) * 3 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "120",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "34.5",
+              "alto": "11.5"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible Fijo"]
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Abatible",
+      "img": "./img/Abatible.png",
+      "subtipo": [
+        {
+          "nombre": "Abatible",
+          "img": "./img/Abatible.png",
+          "formula": "(An + Al) * PV",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "36",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "15.5",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatible"],
+            "direcciones": [
+              {
+                "nombre": "Derecha",
+                "img": "./img/direccion_abatible_derecha.png",
+                "valor": "derecha"
+              },
+              {
+                "nombre": "Izquierda",
+                "img": "./img/direccion_abatible_izquierda.png",
+                "valor": "izquierda"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible con Abatible Fijo",
+          "img": "./img/AbatibleconAbatibleFijo.png",
+          "formula": "((An - An2) + Al) * PV + (An2 + Al) * PV2 + calcularTMullion(Al)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "72",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "31",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "15.5",
+            "formulaMaximo": "An - 12",
+            "preciosVidrio": ["Abatible Fijo", "Abatible"],
+            "direcciones": [
+              {
+                "nombre": "Derecha",
+                "img": "./img/direccion_abatiblefijo_derecha1.png",
+                "valor": "derecha1"
+              },
+              {
+                "nombre": "Izquierda",
+                "img": "./img/direccion_abatiblefijo_izquierda1.png",
+                "valor": "izquierda1"
+              },
+              {
+                "nombre": "Derecha",
+                "img": "./img/direccion_abatiblefijo_derecha2.png",
+                "valor": "derecha2"
+              },
+              {
+                "nombre": "Izquierda",
+                "img": "./img/direccion_abatiblefijo_izquierda2.png",
+                "valor": "izquierda2"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible XOX",
+          "img": "./img/AbatibleXOX.png",
+          "formula": "((An2 + Al) * PV) * 2 + (An - (An2 * 2) + Al) * PV2 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "46.5",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de las ventanas abatibles",
+            "minimo": "15.5",
+            "formulaMaximo": "(An - 12) / 2",
+            "preciosVidrio": ["Abatible", "Abatible Fijo"],
+            "direcciones": [
+              {
+                "nombre": "Izquierda derecha",
+                "img": "./img/direccion_abatiblexox_izquierda.png",
+                "valor": "izquierda"
+              },
+              {
+                "nombre": "Derecha izquierda",
+                "img": "./img/direccion_abatiblexox_derecha.png",
+                "valor": "derecha"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible OXO",
+          "img": "./img/AbatibleOXO.png",
+          "formula": "(An2 + Al) * PV + (((An - An2) / 2 + Al) * PV2) * 2 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "46.5",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "15.5",
+            "formulaMaximo": "An - 24",
+            "preciosVidrio": ["Abatible", "Abatible Fijo"],
+            "direcciones": [
+              {
+                "nombre": "Derecha",
+                "img": "./img/direccion_abatibleoxo_derecha.png",
+                "valor": "derecha"
+              },
+              {
+                "nombre": "Izquierda",
+                "img": "./img/direccion_abatibleoxo_izquierda.png",
+                "valor": "izquierda"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible O/X",
+          "img": "./img/AbatibleOXO.png",
+          "formula": "(An + Al2) * PV + (An + (Al - Al2)) * PV2 + calcularTMullion(An)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "36",
+              "alto": "108"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "15.5",
+              "alto": "32"
+            }
+          ],
+          "extra": {
+            "titulo": "Alto de la ventana abatible",
+            "minimo": "20",
+            "formulaMaximo": "Al - 12",
+            "preciosVidrio": ["Abatible", "Abatible Fijo"],
+            "direcciones": [
+              {
+                "nombre": "Izquierda abajo",
+                "img": "./img/direccion_abatibleodx_izquierda_abajo.png",
+                "valor": "izquierda-abajo"
+              },
+              {
+                "nombre": "Derecha abajo",
+                "img": "./img/direccion_abatibleodx_derecha_abajo.png",
+                "valor": "derecho-abajo"
+              },
+              {
+                "nombre": "Izquierda arriba",
+                "img": "./img/direccion_abatibleodx_izquierda_arriba.png",
+                "valor": "izquierda-arriba"
+              },
+              {
+                "nombre": "Derecha arriba",
+                "img": "./img/direccion_abatibleodx_derecha_arriba.png",
+                "valor": "derecha-arriba"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible XX",
+          "img": "./img/AbatibleXX.png",
+          "formula": "((An - An2) + Al) * PV + (An2 + Al) * PV + calcularTMullion(Al)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "72",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "31",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "15.5",
+            "formulaMaximo": "An - 15.5",
+            "preciosVidrio": ["Abatible"],
+            "direcciones": [
+              {
+                "nombre": "Doble abatible (XLXR)",
+                "img": "./img/direccion_abatiblexx_xlxr.png",
+                "valor": "dobleabatiblexlxr"
+              },
+              {
+                "nombre": "Doble abatible (XRXL)",
+                "img": "./img/direccion_abatiblexx_xrxl.png",
+                "valor": "dobleabatiblexrxl"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatible XOO-OOX",
+          "img": "./img/AbatibleXOO-OOX.png",
+          "formula": "(An2 + Al) * PV + (((An - An2) / 2 + Al) * PV2) * 2 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "80"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "46.5",
+              "alto": "20"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "15.5",
+            "formulaMaximo": "An - 12",
+            "preciosVidrio": ["Abatible", "Abatible Fijo"],
+            "direcciones": [
+              {
+                "nombre": "Abatible derecho (OOXL)",
+                "img": "./img/direccion_abatible_derechoooxl.png",
+                "valor": "abatiblederechoooxl"
+              },
+              {
+                "nombre": "Abatible derecho (OOXR)",
+                "img": "./img/direccion_abatible_derechoooxr.png",
+                "valor": "abatiblederechoooxr"
+              },
+              {
+                "nombre": "Abatible izquierdo (XLOO)",
+                "img": "./img/direccion_abatible_izquierdoxloo.png",
+                "valor": "abatibleizquierdoxloo"
+              },
+              {
+                "nombre": "Abatible izquierdo (XROO)",
+                "img": "./img/direccion_abatible_izquierdoxroo.png",
+                "valor": "abatibleizquierdoxroo"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Proyectante",
+      "img": "./img/Proyectante.png",
+      "subtipo": [
+        {
+          "nombre": "Abatiente",
+          "img": "./img/Abatiente.png",
+          "formula": "(An + Al) * PV",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "60",
+              "alto": "72"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "22",
+              "alto": "18"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatiente"]
+          }
+        },
+        {
+          "nombre": "Abatiente con Abatible Fijo",
+          "img": "./img/AbatienteconAbatienteFijo.png",
+          "formula": "((An - An2) + Al) * PV + (An2 + Al) * PV2 + calcularTMullion(Al)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "72"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "44",
+              "alto": "18"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "22",
+            "formulaMaximo": "An - 12",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"],
+            "direcciones": [
+              {
+                "nombre": "Izquierda",
+                "img": "./img/direccion_abatienteabatiblefijo_izquierda.png",
+                "valor": "izquierda"
+              },
+              {
+                "nombre": "Derecha",
+                "img": "./img/direccion_abatienteabatiblefijo_derecha.png",
+                "valor": "derecha"
+              },
+              {
+                "nombre": "Doble",
+                "img": "./img/direccion_abatienteabatiblefijo_doble.png",
+                "valor": "doble"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatiente con Abatible Fijo Apilado",
+          "img": "./img/AbatienteconAbatienteFijoAmpliado.png",
+          "formula": "(An + (Al - Al2)) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "60",
+              "alto": "96"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "22",
+              "alto": "36"
+            }
+          ],
+          "extra": {
+            "titulo": "Alto de la ventana avatible",
+            "minimo": "18",
+            "formulaMaximo": "Al - 10",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"],
+            "direcciones": [
+              {
+                "nombre": "Proyectante abajo (O/X)",
+                "img": "./img/direccion_proyectante_abajo.png",
+                "valor": "abajo"
+              },
+              {
+                "nombre": "Proyectante arriba (X/O)",
+                "img": "./img/direccion_proyectante_arriba.png",
+                "valor": "arriba"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Abatiente XOX",
+          "img": "./img/AbatienteXOX.png",
+          "formula": "((An - (An2 * 2)) + Al) * PV + ((An2 + Al) * PV2) * 2 + calcularTMullion(Al) * 2",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "72"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "66",
+              "alto": "18"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de las ventanas abatibles",
+            "minimo": "22",
+            "formulaMaximo": "(An - 12) / 2",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"]
+          }
+        },
+        {
+          "nombre": "Abatiente OXO",
+          "img": "./img/AbatienteOXO.png",
+          "formula": "(((An - An2) / 2 + Al) * PV) * 2 + (An2 + Al) * PV2 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "72"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "66",
+              "alto": "18"
+            }
+          ],
+          "extra": {
+            "titulo": "Ancho de la ventana abatible",
+            "minimo": "22",
+            "formulaMaximo": "An - 24",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"]
+          }
+        },
+        {
+          "nombre": "Proyectante XXX",
+          "img": "./img/ProyectanteXXX.png",
+          "formula": "((An + (Al / 3)) * PV) * 3 + calcularTMullion(An * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "60",
+              "alto": "108"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "22",
+              "alto": "54"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatiente"]
+          }
+        },
+        {
+          "nombre": "Abatiente XXX",
+          "img": "./img/AbatienteXXX.png",
+          "formula": "(((An / 3) + Al) * PV) * 3 + calcularTMullion(Al * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "108",
+              "alto": "72"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "66",
+              "alto": "18"
+            }
+          ],
+          "extra": {
+            "preciosVidrio": ["Abatiente"]
+          }
+        },
+        {
+          "nombre": "Proyectante con 2 Fijos",
+          "img": "./img/Proyectantecon2Fijos.png",
+          "formula": "((An + ((Al - Al2) / 2)) * PV) * 2 + (An + Al2) * PV2 + calcularTMullion(An * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "60",
+              "alto": "108"
+            },
+            {
+              "nombre": "Mínimo",
+              "ancho": "22",
+              "alto": "54"
+            }
+          ],
+          "extra": {
+            "titulo": "Alto de la ventana abatible",
+            "minimo": "18",
+            "formulaMaximo": "Al - 20",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"],
+            "direcciones": [
+              {
+                "nombre": "Proyectante (X/O/O)",
+                "img": "./img/direccion_proyectante_xoo.png",
+                "valor": "xoo"
+              },
+              {
+                "nombre": "Proyectante (O/X/O)",
+                "img": "./img/direccion_proyectante_oxo.png",
+                "valor": "oxo"
+              },
+              {
+                "nombre": "Proyectante (O/O/X)",
+                "img": "./img/direccion_proyectante_oox.png",
+                "valor": "oox"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Doble Proyectante con un Fijo",
+          "img": "./img/DobleProyectanteconunFijo.png",
+          "formula": "(An + (Al - Al2) / 2) * PV + ((An + Al2) * PV2  ) * 2 + calcularTMullion(An * 2)",
+          "dimensiones": [
+            {
+              "nombre": "Máximo",
+              "ancho": "60",
+              "alto": "108"
+            },
+            { 
+              "nombre": "Mínimo",
+              "ancho": "22",
+              "alto": "54"
+            }
+          ],
+          "extra": {
+            "titulo": "Alto de las ventanas abatibles",
+            "minimo": "18",
+            "formulaMaximo": "Al - 18",
+            "preciosVidrio": ["Abatible Fijo", "Abatiente"],
+            "direcciones": [
+              {
+                "nombre": "Proyectante (O/X/X)",
+                "img": "./img/direccion_proyectante_oxx.png",
+                "valor": "oxx"
+              },
+              {
+                "nombre": "Proyectante (X/O/X)",
+                "img": "./img/direccion_proyectante_xox.png",
+                "valor": "xox"
+              },
+              {
+                "nombre": "Proyectante (X/X/O)",
+                "img": "./img/direccion_proyectante_xxo.png",
+                "valor": "xxo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "colores": [
+    {
+      "nombre": "Blanco",
+      "img": "./img/Blanco.png",
+      "color": [
+        {
+          "nombre": "Bronze",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Negro",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Cranberry",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Charcoal Gray",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Azul",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Rojo Caliente",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Metallic Silver",
+          "precioExterior": 3744.99,
+          "precioInterior": 7489.99
+        },
+        {
+          "nombre": "Wicker",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        }
+      ]
+    },
+    {
+      "nombre": "Clay",
+      "img": "./img/Clay.png",
+      "color": [
+        {
+          "nombre": "Bronze",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Negro",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Cranberry",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Charcoal Gray",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Azul",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Rojo Caliente",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        },
+        {
+          "nombre": "Metallic Silver",
+          "precioExterior": 3744.99,
+          "precioInterior": 7489.99
+        },
+        {
+          "nombre": "Wicker",
+          "precioExterior": 1872.50,
+          "precioInterior": 3744.99
+        }
+      ]
+    }
+  ]
+}

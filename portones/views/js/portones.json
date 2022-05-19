@@ -1,0 +1,417 @@
+{
+  "tipos": [
+    {
+      "nombre": "Residencial",
+      "img": "./img/residencial2.jpg",
+      "subtipos": [
+        {
+          "nombre": "Sencillo Cuadrado 510",
+          "img": "./img/cuadroSencillo.jpg"
+        },
+        {
+          "nombre": "Sencillo Liso 450",
+          "img": "./img/sencilloLiso.jpg"
+        },
+        {
+          "nombre": "Doble 3610",
+          "img": "./img/doble.jpg"
+        },
+        {
+          "nombre": "Doble Madera 3640",
+          "img": "./img/dobleMadera.jpg"
+        }
+      ],
+      "aperturas": [
+        {
+          "nombre": "Standard lift",
+          "img": "./img/standardLift.jpg",
+          "precio": 0
+        },
+        {
+          "nombre": "Low headroom",
+          "img": "./img/lowHeadroom.jpg",
+          "precio": -1
+        },
+        {
+          "nombre": "Roof pitch",
+          "img": "./img/roofPitch.jpg",
+          "precio": 4000
+        },
+        {
+          "nombre": "High lift",
+          "img": "./img/highLift.jpg",
+          "precio": 2000
+        },
+        {
+          "nombre": "Vertical lift",
+          "img": "./img/verticalLift.jpg",
+          "precio": 3000
+        }
+      ],
+      "dimensiones": [
+        {
+          "ancho": 8,
+          "alto": 7
+        },
+        {
+          "ancho": 8,
+          "alto": 8
+        },
+        {
+          "ancho": 9,
+          "alto": 7
+        },
+        {
+          "ancho": 9,
+          "alto": 8
+        },
+        {
+          "ancho": 10,
+          "alto": 7
+        },
+        {
+          "ancho": 10,
+          "alto": 8
+        },
+        {
+          "ancho": 12,
+          "alto": 7
+        },
+        {
+          "ancho": 12,
+          "alto": 8
+        },
+        {
+          "ancho": 14,
+          "alto": 7
+        },
+        {
+          "ancho": 14,
+          "alto": 8
+        },
+        {
+          "ancho": 16,
+          "alto": 7
+        },
+        {
+          "ancho": 16,
+          "alto": 8
+        },
+        {
+          "ancho": 18,
+          "alto": 7
+        },
+        {
+          "ancho": 18,
+          "alto": 8
+        },
+        {
+          "ancho": 20,
+          "alto": 7
+        },
+        {
+          "ancho": 20,
+          "alto": 8
+        }
+      ],
+      "motores": [
+        {
+          "nombre": "Motor de Cadena Chamberlain",
+          "precio": 5207.97,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": false
+        },
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 7",
+          "precio": 8104.90,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 8",
+          "precio": 8359.75,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },        
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 10",
+          "precio": 10267.02,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 7",
+          "precio": 11353.50,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 8",
+          "precio": 12450.41,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 10",
+          "precio": 13798.04,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Pared Liftmaster 8500 s/wifi",
+          "precio": 13643.48,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Pared Liftmaster 8500 wifi",
+          "precio": 17263.94,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        }
+      ],
+      "colores": [
+        {
+          "nombre": "Negro",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 100
+        },
+        {
+          "nombre": "Blanco",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 100
+        }
+      ],
+      "figuras": [
+        {
+          "nombre": "Figura 1",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 0
+        },
+        {
+          "nombre": "Figura 2",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 0
+        }
+      ]
+    },
+    {
+      "nombre": "Comercial",
+      "img": "./img/comercial2.jpg",
+      "subtipos": [
+        {
+          "nombre": "Riel 2\"",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg"
+        },
+        {
+          "nombre": "Riel 3\"",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg"
+        }
+      ],
+      "dimensiones": [
+        {
+          "ancho": 10,
+          "alto": 9,
+          "riel": 2
+        },
+        {
+          "ancho": 10,
+          "alto": 10,
+          "riel": 2
+        },
+        {
+          "ancho": 10,
+          "alto": 12,
+          "riel": 2
+        },
+        {
+          "ancho": 12,
+          "alto": 9,
+          "riel": 2
+        },
+        {
+          "ancho": 12,
+          "alto": 10,
+          "riel": 2
+        },
+        {
+          "ancho": 12,
+          "alto": 12,
+          "riel": 2
+        },
+        {
+          "ancho": 12,
+          "alto": 14,
+          "riel": 2
+        },
+        {
+          "ancho": 14,
+          "alto": 9,
+          "riel": 2
+        },
+        {
+          "ancho": 14,
+          "alto": 10,
+          "riel": 2
+        },
+        {
+          "ancho": 14,
+          "alto": 12,
+          "riel": 2
+        },
+        {
+          "ancho": 14,
+          "alto": 14,
+          "riel": 2
+        },
+        {
+          "ancho": 14,
+          "alto": 16,
+          "riel": 2
+        },
+        {
+          "ancho": 16,
+          "alto": 10,
+          "riel": 2
+        },
+        {
+          "ancho": 16,
+          "alto": 12,
+          "riel": 2
+        },
+        {
+          "ancho": 16,
+          "alto": 14,
+          "riel": 2
+        },
+        {
+          "ancho": 16,
+          "alto": 16,
+          "riel": 2
+        },
+        {
+          "ancho": 18,
+          "alto": 10,
+          "riel": 2
+        },
+        {
+          "ancho": 18,
+          "alto": 12,
+          "riel": 2
+        },
+        {
+          "ancho": 18,
+          "alto": 14,
+          "riel": 3
+        },
+        {
+          "ancho": 18,
+          "alto": 16,
+          "riel": 3
+        },
+        {
+          "ancho": 18,
+          "alto": 18,
+          "riel": 3
+        }
+      ],
+      "aperturas": [
+         {
+          "nombre": "Standard lift",
+          "img": "./img/standardLift.jpg",
+          "precio": 0
+        },
+        {
+          "nombre": "Low headroom",
+          "img": "./img/lowHeadroom.jpg",
+          "precio": -1
+        },
+        {
+          "nombre": "Roof pitch",
+          "img": "./img/roofPitch.jpg",
+          "precio": 8000
+        },
+        {
+          "nombre": "High lift",
+          "img": "./img/highLift.jpg",
+          "precio": 4000
+        },
+        {
+          "nombre": "Vertical lift",
+          "img": "./img/verticalLift.jpg",
+          "precio": 6000
+        }
+      ],
+      "motores": [
+        {
+          "nombre": "Motor de Cadena Chamberlain",
+          "precio": 5207.97,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": false
+        },
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 7",
+          "precio": 8104.90,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 8",
+          "precio": 8359.75,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },        
+        {
+          "nombre": "Motor de Cadena Liftmaster 8165 de 10",
+          "precio": 10267.02,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 7",
+          "precio": 11353.50,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 8",
+          "precio": 12450.41,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Banda Liftmaster 8355 de 10",
+          "precio": 13798.04,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Pared Liftmaster 8500 s/wifi",
+          "precio": 13643.48,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        },
+        {
+          "nombre": "Motor de Pared Liftmaster 8500 wifi",
+          "precio": 17263.94,
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "hasQuote": true
+        }
+      ],
+      "colores": [
+        {
+          "nombre": "Sin color",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 0
+        }
+      ],
+      "figuras": [
+        {
+          "nombre": "Sin figuras",
+          "img": "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg",
+          "precio": 0
+        }
+      ]
+    }
+  ]
+}

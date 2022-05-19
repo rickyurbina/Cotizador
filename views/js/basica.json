@@ -1,0 +1,780 @@
+{
+  "nombre": "Básica",
+  "img": "./img/Fija(Serie40).png",
+  "ceja": [
+      { "nombre": "Sin ceja", "img": "./img/sinCeja.png " },
+      { "nombre": "Ceja", "img": "./img/ceja.png" },
+      { "nombre": "Ceja enfrente", "img": "./img/ceja_frente.png" }
+  ],
+  "tipoVidrio": [
+      {
+          "nombre": "Vidrio sencillo",
+          "img": "./img/vidrioSencillo.png ",
+          "tipos": [
+            { 
+              "nombre": "Claro", 
+              "img": "./img/vidrioSenci.png" 
+            },
+            { 
+              "nombre": "Baño", 
+              "img": "./img/vidrioSenciBano.png"
+            },
+            { 
+              "nombre": "FiltraSol", 
+              "img": "./img/vidrioSenci.png" 
+            },
+            { 
+              "nombre": "ReflecteSol", 
+              "img": "./img/vidrioSenci.png"
+            }
+          ]
+      },
+      {
+          "nombre": "Vidrio doble",
+          "img": "./img/vidrio_dob.png",
+          "tipos": [
+              { 
+                "nombre": "Claro", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "Low-E", 
+                "img": "./img/vidrio_dob_lowe.png"
+              },
+              { 
+                "nombre": "Claro / Baño", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "Low-E / Baño", 
+                "img": "./img/vidrio_dob_lowe.png"
+              },
+              { 
+                "nombre": "Low-E / FiltraSol", 
+                "img": "./img/vidrio_dob_lowe.png"
+              },
+              { 
+                "nombre": "Low-E / ReflecteSol", 
+                "img": "./img/vidrio_dob_lowe.png"
+              },
+              { 
+                "nombre": "FiltraSol / Claro", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "FiltraSol / Baño", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "ReflecteSol / Claro", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "ReflecteSol / FiltraSol", 
+                "img": "./img/vidrio_dob.png"
+              },
+              { 
+                "nombre": "ReflecteSol / Baño UF", 
+                "img": "./img/vidrio_dob.png"
+              }
+          ]
+      },
+      {
+          "nombre": "Vidrio doble con marginal",
+          "img": "./img/vidrio_dob_marginal.png",
+          "tipos": [
+              { 
+                "nombre": "Claro con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "Low-E con marginal", 
+                "img": "./img/vidrio_dob_lowe_marginal.png"
+              },
+              { 
+                "nombre": "Claro / Baño con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "Low-E / Baño con marginal", 
+                "img": "./img/vidrio_dob_lowe_marginal.png"
+              },
+              { 
+                "nombre": "Low-E / FiltraSol con marginal", 
+                "img": "./img/vidrio_dob_lowe_marginal.png"
+              },
+              { 
+                "nombre": "Low-E / ReflecteSol con marginal", 
+                "img": "./img/vidrio_dob_lowe_marginal.png"
+              },
+              { 
+                "nombre": "FiltraSol / Claro con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "FiltraSol / Baño con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "ReflecteSol / Claro con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "ReflecteSol / FiltraSol con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              },
+              { 
+                "nombre": "ReflecteSol / Baño UF con marginal", 
+                "img": "./img/vidrio_dob_marginal.png"
+              }
+          ]
+      },
+      {
+          "nombre": "Vidrio doble con cuadrícula",
+          "img": "./img/vidrio_dob_cuadricula.png",
+          "tipos": [
+            { 
+              "nombre": "Claro con cuadrícula", 
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            { 
+              "nombre": "Low-E con cuadrícula", 
+              "img": "./img/vidrio_dob_lowe_cuadricula.png"
+            },
+            { 
+              "nombre": "Claro / Baño con cuadrícula", 
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            { 
+              "nombre": "Low-E / Baño con cuadrícula", 
+              "img": "./img/vidrio_dob_bano_lowe_cuadricula.png"
+            },
+            {	
+              "nombre": "Low-E / FiltraSol con cuadrícula", 
+              "img": "./img/vidrio_dob_lowe_cuadricula.png"
+            },
+            {	
+              "nombre": "Low-E / ReflecteSol con cuadrícula",	
+              "img": "./img/vidrio_dob_lowe_cuadricula.png"
+            },
+            { 
+              "nombre": "FiltraSol / Claro con cuadrícula", 
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            { 
+              "nombre": "FiltraSol / Baño con cuadrícula", 
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            {	
+              "nombre": "ReflecteSol / Claro con cuadrícula",	
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            {	
+              "nombre": "ReflecteSol / FiltraSol con cuadrícula",	
+              "img": "./img/vidrio_dob_cuadricula.png"
+            },
+            {	
+              "nombre": "ReflecteSol / Baño UF con cuadrícula",	
+              "img": "./img/vidrio_dob_cuadricula.png"
+            }
+          ]
+      }	
+  ],
+  "tipo": [
+      {
+          "nombre": "Fijo Serie 40",
+          "img": "./img/Fija(Serie40).png",
+          "subtipo": [
+              {
+                  "nombre": "Fija",
+                  "img": "./img/Fija(Serie40).png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Fija"]
+                  }
+              },
+              {
+                  "nombre": "Doble fija apilada",
+                  "img": "./img/DobleFijoApilado(serie40).png",
+                  "formula": "((An + Al / 2) * PV) * 2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "23" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Fija"]
+                  }
+              },
+              {
+                  "nombre": "Triple fija apilada",
+                  "img": "./img/TripleFijaApilada(Serie40).png",
+                  "formula": "((An + Al / 3) * PV) * 3 + calcularTMullion(An) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "108" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "34.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Fija"]
+                  }
+              },
+              {
+                  "nombre": "Doble fija",
+                  "img": "./img/DobleFija(Serie40).png",
+                  "formula": "((An / 2 + Al) * PV) * 2 + calcularTMullion(Al)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "23", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Fija"]
+                  }
+              },
+              {
+                  "nombre": "Triple fija",
+                  "img": "./img/TripleFija(serie40).png",
+                  "formula": "((An / 3 + Al) * PV) * 3 + calcularTMullion(Al) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "34.5", "alto": "11.5" },
+                      { "nombre": "Mínimo", "ancho": "108", "alto": "72" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Fija"]
+                  }
+              }
+          ]
+      },
+      {
+          "nombre": "Corrediza",
+          "img": "./img/Corrediza.png",
+          "subtipo": [
+              {
+                  "nombre": "Corrediza",
+                  "img": "./img/Corrediza.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "17.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Corrediza"],
+                    "direcciones": [
+                      {
+                        "nombre": "Izquierda a derecha (XO)",
+                        "img": "./img/direccion_corrediza_izquierda.png",
+                        "valor": "izquierda"
+                      },
+                      {
+                        "nombre": "Derecha a izquierda (OX)",
+                        "img": "./img/direccion_corrediza_derecha.png",
+                        "valor": "derecha"
+                      }
+                    ]
+                  }
+              },
+              {
+                  "nombre": "Corrediza XOX",
+                  "img": "./img/CorredizaXOX(serie40).png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "84", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "36", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Corrediza XOX"]
+                  }
+              },
+              {
+                  "nombre": "Corrediza OX-O",
+                  "img": "./img/CorredizaOX-O.png",
+                  "formula": "(An + (Al - Al2)) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "17.5", "alto": "23" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto de la ventana corrediza: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Corrediza"],
+                    "direcciones": [
+                      {
+                        "nombre": "Izquierda",
+                        "img": "./img/direccion_corredizaox-o_izquierda.png",
+                        "valor": "izquierda"
+                      },
+                      {
+                        "nombre": "Derecha",
+                        "img": "./img/direccion_corredizaox-o_derecha.png",
+                        "valor": "derecha"
+                      }
+                    ]
+                  }
+                  
+              },
+              {
+                  "nombre": "Corrediza O-XO",
+                  "img": "./img/CorredizaO-XO.png",
+                  "formula": "(An + (Al - Al2)) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "17.5", "alto": "11.5" }
+                  ],
+                  "extra":{
+                    "titulo": "Alto de la ventana corrediza: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Corrediza"],
+                    "direcciones": [
+                      {
+                        "nombre": "Izquierda",
+                        "img": "./img/direccion_corredizao-ox_izquierda.png",
+                        "valor": "izquierda"
+                      },
+                      {
+                        "nombre": "Derecha",
+                        "img": "./img/direccion_corredizao-xo_derecha.png",
+                        "valor": "derecha"
+                      }
+                    ]
+                  }
+              },
+              {
+                  "nombre": "Corrediza O-XOX",
+                  "img": "./img/CorredizaO-XOX.png",
+                  "formula": "(An + (Al - Al2)) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "36", "alto": "11.5" }
+                  ],
+                  "extra":{
+                    "titulo": "Alto de la ventana corrediza: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Corrediza XOX"],
+                    "direcciones": [
+                      {
+                        "nombre": "Corrediza O-XOX",
+                        "img": "./img/direccion_corrediza_o-xox.png",
+                        "valor": "abajo"
+                      },
+                      {
+                        "nombre": "Corrediza XOX-O",
+                        "img": "./img/direccion_corrediza_xox-o.png",
+                        "valor": "arriba"
+                      }
+                    ]
+                  }
+              }
+          ]
+      },
+      {
+          "nombre": "Guillotina",
+          "img": "./img/Guillotina.png",
+          "subtipo": [
+              {
+                  "nombre": "Guillotina",
+                  "img": "./img/Guillotina.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "48", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "17.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Doble guillotina",
+                  "img": "./img/DobleGuillotina.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "17.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Doble Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina OXO",
+                  "img": "./img/GuillotinaOXO.png",
+                  "formula": "(((An - An2) / 2 + Al) * PV) * 2+ (An2 + Al) * PV2 + calcularTMullion(Al) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "34.5", "alto": "17.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Ancho de la guillotina: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "An - 23",
+                    "preciosVidrio": ["Fija", "Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina XOX",
+                  "img": "./img/GuillotinaXOX.png",
+                  "formula": "((An - An2 * 2) + Al) * PV + ((An2 + Al) * PV2) * 2 + calcularTMullion(Al) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "34.5", "alto": "17.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Ancho de las guillotinas: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "(An - 11.5) / 2",
+                    "preciosVidrio": ["Fija", "Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina Orio",
+                  "img": "./img/GuillotinaOrio.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "48", "alto": "84" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto de la guillotina: ",
+                    "minimo": "9",
+                    "formulaMaximo": "Al / 2",
+                    "preciosVidrio": ["Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina Doble orio",
+                  "img": "./img/DobleGuillotinaOrio.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "84" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto de la guillotina: ",
+                    "minimo": "9",
+                    "formulaMaximo": "Al / 2",
+                    "preciosVidrio": ["Doble Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina O-OX",
+                  "img": "./img/GuillotinaO-OX.png",
+                  "formula": "(An - An2 + Al) * PV + (An2 + Al) * PV2 + calcularTMullion(Al)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "96", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "34.5", "alto": "17.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Ancho de la guillotina: ",
+                    "minimo": "11.5",
+                    "formulaMaximo": "An - 11.5",
+                    "preciosVidrio": ["Fija", "Guillotina"]
+                  }
+              },
+              {
+                  "nombre": "Guillotina con arco continuo",
+                  "img": "./img/GuillotinaConArcoContinuo.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "48", "alto": "84" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "35" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Guillotina con Arco Continuo"]
+                  }
+              }
+          ]
+      },
+      {
+          "nombre": "Arcos y figuras",
+          "img": "./img/ArcosyFiguras.png",
+          "subtipo": [
+              {
+                  "nombre": "Triángulo isosceles",
+                  "img": "./img/TrianguloIsosceles.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Forma AO",
+                  "img": "./img/ArcoAO.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "60", "alto": "80" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Hexagonal",
+                  "img": "./img/Hexagonal.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "60", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Octagonal",
+                  "img": "./img/Octagonal.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "60", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "11.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Triángulo rectángulo",
+                  "img": "./img/TrianguloRectangulo.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "84", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "11.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Forma AO-O",
+                  "img": "./img/FormaAO-O.png",
+                  "formula": "(An + Al - Al2) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "120" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "35.5" }
+                  ],
+                  "extra":{
+                    "titulo": "Alto de la forma: ",
+                    "minimo": "2",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Figura AO",
+                  "img": "./img/FiguraAO.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "11.5", "alto": "23.5" },
+                      { "nombre": "Mínimo", "ancho": "72", "alto": "72" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Figura AO-O",
+                  "img": "./img/FiguraAO-O.png",
+                  "formula": "(An + Al - Al2) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "120" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "35.5" }
+                  ],
+                  "extra":{
+                    "titulo": "Alto de la figura: ",
+                    "minimo": "2",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Circular",
+                  "img": "./img/Circular.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "60", "alto": "60" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco",
+                  "img": "./img/Arco.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "68", "alto": "34" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "11.75" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco media luna fijo",
+                  "img": "./img/ArcoMediaLunaFijo.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "68", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "15" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Media luna con un fijo",
+                  "img": "./img/MediaLunacon1Fijo.png",
+                  "formula": "(An + Al - Al2) * PV + (An + Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "68", "alto": "94" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra":{
+                    "titulo": "Alto del arco: ",
+                    "minimo": "11.75",
+                    "formulaMaximo": "Al - 11.5",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco A-O-O",
+                  "img": "./img/ArcoA-O-O.png",
+                  "formula": "((An / 2 + Al2) * PV) * 2 + (An + Al - Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "68", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto del traslapo",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 11.75",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco media luna 3 fijos",
+                  "img": "./img/ArcoMediaLunacon3Fijos.png",
+                  "formula": "((An / 3 + Al2) * PV) * 3 + (An + Al - Al2) * PV2 + calcularTMullion(An) + calcularTMullion(Al2) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "68", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "34.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto del traslapo",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 11.75",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco AO",
+                  "img": "./img/ArcoAO.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "12" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              },
+              {
+                  "nombre": "Fijo con arco",
+                  "img": "./img/FijoConArco.png",
+                  "formula": "(An + Al2) * PV + (An + Al - Al2) * PV2 + calcularTMullion(An)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto del traslapo",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 2",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco media luna con 2 fijos",
+                  "img": "./img/ArcoMediaLunacon2Fijos.png",
+                  "formula": "((An / 2 + Al2) * PV) * 2 + (An + Al - Al2) * PV2 + calcularTMullion(An) + calcularTMullion(Al2)",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "23.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto del traslapo",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 2",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Arco AOOO luna con 3 fijos",
+                  "img": "./img/ArcoAOOOcon3Fijos.png",
+                  "formula": "((An / 3 + Al2) * PV) * 3 + (An + Al - Al2) * PV2 + calcularTMullion(An) + calcularTMullion(Al2) * 2",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "72", "alto": "96" },
+                      { "nombre": "Mínimo", "ancho": "34.5", "alto": "23.5" }
+                  ],
+                  "extra": {
+                    "titulo": "Alto del traslapo",
+                    "minimo": "11.5",
+                    "formulaMaximo": "Al - 2",
+                    "preciosVidrio": ["Fija", "Arco"]
+                  }
+              },
+              {
+                  "nombre": "Catedral",
+                  "img": "./img/Catedral.png",
+                  "formula": "(An + Al) * PV",
+                  "dimensiones": [
+                      { "nombre": "Máximo", "ancho": "60", "alto": "72" },
+                      { "nombre": "Mínimo", "ancho": "15.5", "alto": "32.5" }
+                  ],
+                  "extra": {
+                    "preciosVidrio": ["Arco"]
+                  }
+              }
+          ]
+      }
+  ],
+  "colores": [
+    {
+      "nombre": "Blanco",
+      "img": "./img/Blanco.png",
+      "color": [ 
+        {"nombre": "Bronze","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Negro","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Cranberry","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Charcoal Gray","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Azul","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Rojo Caliente","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Metallic Silver","precioExterior": 3744.99,"precioInterior":7489.99},
+        {"nombre": "Wicker","precioExterior": 1872.50,"precioInterior":3744.99}
+      ]
+    },
+    {
+      "nombre": "Clay",
+      "img": "./img/Clay.png",
+      "color": [ 
+        {"nombre": "Bronze","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Negro","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Cranberry","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Charcoal Gray","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Azul","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Rojo Caliente","precioExterior": 1872.50,"precioInterior":3744.99},
+        {"nombre": "Metallic Silver","precioExterior": 3744.99,"precioInterior":7489.99},
+        {"nombre": "Wicker","precioExterior": 1872.50,"precioInterior":3744.99}
+      ]
+    }
+  ]
+}

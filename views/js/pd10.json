@@ -1,0 +1,180 @@
+{
+    "nombre": "PD10",
+    "img": "./img/PD10-PuertaCorrediza.png",
+    "ceja": [
+        { "nombre": "Sin ceja", "img": "./img/sinCeja.png " },
+        { "nombre": "Ceja", "img": "./img/ceja.png" },
+        { "nombre": "Ceja enfrente", "img": "./img/ceja_frente.png" }
+    ],
+    "tipoVidrio": [
+        {
+            "nombre": "Vidrio Doble",
+            "img": "./img/vidrio_dob.png",
+            "tipos": [
+                { "nombre": "Templado Claro", "img": "./img/vidrio_dob_templado_ingles.png" },
+                { "nombre": "Templado Low-E", "img": "./img/vidrio_dob_templado_lowe_ingles.png" },
+                { "nombre": "Templado Claro Baño", "img": "./img/vidrio_dob_templado_ingles.png" },
+                { "nombre": "Templado Low-E Baño", "img": "./img/vidrio_dob_templado_lowe_ingles.png"  },
+                { "nombre": "Templado Low-E Filtrasol", "img": "./img/vidrio_dob_templado_lowe_ingles.png" }
+            ]
+        }
+    ],
+    "tipo": [
+        {
+            "nombre": "Puerta Corrediza",
+            "img": "./img/PD10-PuertaCorrediza.png",
+            "subtipo": [
+                {
+                    "nombre": "Puerta Corrediza",
+                    "img": "./img/PD10-PuertaCorrediza.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "96", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "47.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza"],
+                      "direcciones": [
+                          {
+                            "nombre": "Corrediza a la derecha",
+                            "img": "./img/direccion_puertacorrediza_derecha.png",
+                            "valor": "derecha"
+                          },
+                          {
+                            "nombre": "Corrediza a la izquierda",
+                            "img": "./img/direccion_puertacorrediza_izquierda.png",
+                            "valor": "izquierda"
+                          }
+                      ]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza O XO",
+                    "img": "./img/PuertaCorredizaO-XO.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "144", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "71.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza O XO"],
+                      "direcciones": [
+                          {
+                            "nombre": "Corrediza a la derecha",
+                            "img": "./img/direccion_puertacorrediza_oxo_derecha.png",
+                            "valor": "derecha"
+                          },
+                          {
+                            "nombre": "Corrediza a la izquierda",
+                            "img": "./img/direccion_puertacorrediza_oxo_izquierda.png",
+                            "valor": "izquierda"
+                          }
+                      ]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza OOX",
+                    "img": "./img/PuertaCorredizaOOX.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "192", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "71.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza OOX"],
+                      "direcciones": [
+                          {
+                            "nombre": "Corrediza a la izquierda",
+                            "img": "./img/direccion_puertacorrediza_oox_izquierda.png",
+                            "valor": "izquierda"
+                          },
+                          {
+                            "nombre": "Corrediza a la derecha",
+                            "img": "./img/direccion_puertacorrediza_oox_derecha.png",
+                            "valor": "derecha"
+                          }
+                      ]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza OXXO",
+                    "img": "./img/PuertaCorredizaOXXO.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "192", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "71.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza OXXO"]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza OO",
+                    "img": "./img/PuertaCorredizaOO.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "96", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "47.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza OO"]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza OOOO",
+                    "img": "./img/PuertaCorredizaOOOO.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "192", "alto": "96" },
+                        { "nombre": "Mínimo", "ancho": "71.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza OOOO"]
+                    }
+                },
+                {
+                    "nombre": "Puerta Corrediza O",
+                    "img": "./img/PuertaCorredizaO.png",
+                    "formula": "(An + Al) * PV",
+                    "dimensiones": [
+                        { "nombre": "Máximo", "ancho": "96", "alto": "130" },
+                        { "nombre": "Mínimo", "ancho": "47.5", "alto": "23.5" }
+                    ],
+                    "extra": {
+                      "preciosVidrio": ["Puerta Corrediza O"]
+                    }
+                }
+            ]
+        }
+    ],
+    "colores": [
+		{
+			"nombre": "Blanco",
+			"img": "./img/Blanco.png",
+			"color": [ 
+				{"nombre": "Bronze","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Negro","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Cranberry","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Charcoal Gray","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Azul","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Rojo Caliente","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Metallic Silver","precioExterior": 3744.99,"precioInterior":7489.99},
+				{"nombre": "Wicker","precioExterior": 1872.50,"precioInterior":3744.99}
+			]
+		},
+		{
+			"nombre": "Clay",
+			"img": "./img/Clay.png",
+			"color": [ 
+				{"nombre": "Bronze","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Negro","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Cranberry","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Charcoal Gray","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Azul","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Rojo Caliente","precioExterior": 1872.50,"precioInterior":3744.99},
+				{"nombre": "Metallic Silver","precioExterior": 3744.99,"precioInterior":7489.99},
+				{"nombre": "Wicker","precioExterior": 1872.50,"precioInterior":3744.99}
+			]
+		}
+	]
+}
